@@ -1,0 +1,13 @@
+{
+    "useLibraryCodeForTypes": true,
+    "disableDiagnostics": false,
+    "reportMissingImports": true,
+    "reportMissingTypeStubs": true,
+    "reportInferredAny": true,
+    "settings": {
+        "python.analysis.typeCheckingMode": "strict",
+        "python.analysis.autoSearchPaths": true,
+        "python.analysis.autoImportCompletions": true,
+        "python.analysis.typeCheckModule": true
+    }
+}
